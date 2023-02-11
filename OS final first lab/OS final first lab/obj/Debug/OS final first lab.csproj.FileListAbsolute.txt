@@ -1,0 +1,11 @@
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\bin\Debug\OS_final_first_lab.exe.config
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\bin\Debug\OS_final_first_lab.exe
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\bin\Debug\OS_final_first_lab.pdb
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS final first lab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS final first lab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS_final_first_lab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS final first lab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS final first lab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS_final_first_lab.exe
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS_final_first_lab.pdb
+C:\Rider for cpp and cs\prjects\OS final first lab\OS final first lab\obj\Debug\OS_final_first_lab.Form1.resources
