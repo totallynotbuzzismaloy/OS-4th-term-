@@ -17,6 +17,9 @@ namespace OS_final_first_lab
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            long totalMemory = GC.GetTotalMemory(false);
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
         }
     }
 }

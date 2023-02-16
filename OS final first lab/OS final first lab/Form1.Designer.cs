@@ -39,7 +39,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(811, 280);
+            this.button1.Location = new System.Drawing.Point(57, 485);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(135, 55);
             this.button1.TabIndex = 0;
@@ -50,7 +50,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(811, 363);
+            this.button2.Location = new System.Drawing.Point(253, 485);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(135, 55);
             this.button2.TabIndex = 1;
@@ -61,7 +61,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(675, 540);
+            this.textBox1.Location = new System.Drawing.Point(57, 580);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(167, 22);
             this.textBox1.TabIndex = 2;
@@ -69,16 +69,16 @@
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(675, 578);
+            this.label1.Location = new System.Drawing.Point(57, 632);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(262, 54);
+            this.label1.Size = new System.Drawing.Size(167, 54);
             this.label1.TabIndex = 3;
             this.label1.Text = "введите ненулевое число";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(854, 535);
+            this.button3.Location = new System.Drawing.Point(230, 578);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(92, 27);
             this.button3.TabIndex = 4;
@@ -91,7 +91,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(958, 652);
+            this.ClientSize = new System.Drawing.Size(955, 705);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
