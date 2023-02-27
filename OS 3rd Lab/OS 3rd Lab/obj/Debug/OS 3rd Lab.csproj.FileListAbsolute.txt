@@ -1,0 +1,11 @@
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\bin\Debug\OS_3rd_Lab.exe.config
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\bin\Debug\OS_3rd_Lab.exe
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\bin\Debug\OS_3rd_Lab.pdb
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS 3rd Lab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS 3rd Lab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS_3rd_Lab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS 3rd Lab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS 3rd Lab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS_3rd_Lab.exe
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS_3rd_Lab.pdb
+C:\Rider for cpp and cs\prjects\OS 3rd Lab\OS 3rd Lab\obj\Debug\OS_3rd_Lab.Form1.resources
