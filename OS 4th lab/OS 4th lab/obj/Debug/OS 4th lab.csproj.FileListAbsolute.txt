@@ -1,0 +1,15 @@
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\bin\Debug\OS_4th_lab.exe.config
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\bin\Debug\OS_4th_lab.exe
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\bin\Debug\OS_4th_lab.pdb
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS 4th lab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS 4th lab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS 4th lab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS 4th lab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.exe
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.pdb
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.Form1.resources
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.Form2.resources
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.Form3.resources
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.Form4.resources
+C:\Rider for cpp and cs\prjects\OS 4th lab\OS 4th lab\obj\Debug\OS_4th_lab.Form5.resources
