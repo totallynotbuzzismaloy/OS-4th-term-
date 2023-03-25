@@ -1,0 +1,11 @@
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\bin\Debug\OS_6thLab.exe.config
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\bin\Debug\OS_6thLab.exe
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\bin\Debug\OS_6thLab.pdb
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS 6thLab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS 6thLab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS_6thLab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS 6thLab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS 6thLab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS_6thLab.exe
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS_6thLab.pdb
+C:\Rider for cpp and cs\prjects\OS 6thLab\OS 6thLab\obj\Debug\OS_6thLab.Form1.resources
