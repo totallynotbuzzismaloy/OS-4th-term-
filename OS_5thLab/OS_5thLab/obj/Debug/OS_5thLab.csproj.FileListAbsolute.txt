@@ -1,0 +1,15 @@
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\bin\Debug\OS_5thLab.exe.config
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\bin\Debug\OS_5thLab.exe
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\bin\Debug\OS_5thLab.pdb
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\bin\Debug\LibraryForFifthLab.dll
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\bin\Debug\myReplacementExplorer.dll
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.csproj.CopyComplete
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.exe
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.pdb
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\obj\Debug\OS_5thLab.Form1.resources
+C:\Rider for cpp and cs\prjects\OS_5thLab\OS_5thLab\bin\Debug\myArithmeticOperations.dll
