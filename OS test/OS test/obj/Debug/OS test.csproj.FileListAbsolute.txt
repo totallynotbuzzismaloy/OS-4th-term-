@@ -1,0 +1,11 @@
+C:\Rider for cpp and cs\prjects\OS test\OS test\bin\Debug\OS_test.exe.config
+C:\Rider for cpp and cs\prjects\OS test\OS test\bin\Debug\OS_test.exe
+C:\Rider for cpp and cs\prjects\OS test\OS test\bin\Debug\OS_test.pdb
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS test.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS test.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS_test.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS test.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS test.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS_test.exe
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS_test.pdb
+C:\Rider for cpp and cs\prjects\OS test\OS test\obj\Debug\OS_test.Form1.resources
